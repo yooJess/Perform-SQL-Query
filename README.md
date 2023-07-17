@@ -13,6 +13,8 @@ In this project, we will be performing an SQL Query.<br/>
 <img src="https://i.imgur.com/DU8geVa.png" height="80%" width="80%" alt="SQL Select and From"/>
 <br/>
 <br/>
+  Note:<br/>The 'SELECT' and 'FROM' are <b>not</b> case sensitive. But, the 'table names' <b>are</b> case sensitive!<br/>
+
 <br/>
 <b>2. </b>Now, if you only want to focus on certain columns from the 'machines' table, you can run the following query: SELECT A, B FROM machines;<br/>
   <br/>
@@ -79,7 +81,7 @@ Note:<br/>The recommended sequence of commands for saving a file with the nano t
 Nice! Once we've 'cat' or 'concatenate', to see the contents of 'tasks.txt' we can see that our text has been saved within that 'tasks.txt' file! This is one of my project portofolio on how to manage files within Linux!<br/>
 <br/>
 <br/>
-         
+         -->
 <!--
  ```diff
 - text in red
