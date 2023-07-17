@@ -49,7 +49,7 @@ In this project, we will be performing an SQL Query.<br/>
 <br/>
 
   <b>7. </b>Let's organize it again, by changing the 'Order by' login_date, and also login_time:<br/>
-    <img src="https://i.imgur.com/soVfHzz.png" height="80%" width="80%" alt="Deleting file"/><br/>
+    <img src="https://i.imgur.com/soVfHzz.png" height="80%" width="80%" alt="Organize by login date and login time"/><br/>
 <br/>
 <br/>
 We now see that 'ls' in the 'notes' directory, contains no more 'tempnotes.txt' file!<br/>
